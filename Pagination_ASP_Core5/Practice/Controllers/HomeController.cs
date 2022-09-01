@@ -18,7 +18,7 @@ namespace Practice.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index()qdcwqwd
         {
             return View();
         }
