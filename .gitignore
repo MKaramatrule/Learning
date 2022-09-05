@@ -206,7 +206,8 @@
  .idea/
  *.sln.iml
 *.vsidx
-Pagination_ASP_Core5/Practice/.vs/Practice/v17/.suo
+*.suo
 Pagination_ASP_Core5/Practice/.vs/Practice/FileContentIndex/fb960ec0-5911-4c4a-9457-21cd3f04c044.vsidx
 *.vsidx
+Pagination_ASP_Core5/Practice/.vs/Practice/v17/.suo
 Pagination_ASP_Core5/Practice/.vs/Practice/v17/.suo
